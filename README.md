@@ -24,5 +24,10 @@ The website uses modern UI design principles such as cards, gradients, spacing, 
 
 This project demonstrates strong fundamentals in HTML structure, CSS styling, responsive design, and UI/UX thinking. It is suitable for use as a personal portfolio and for submission as a frontend internship or entry-level developer project.
 
+# OUTPUT
+<img width="1643" height="781" alt="Image" src="https://github.com/user-attachments/assets/58bbc0b1-e265-4926-8baf-55f1be68cd4e" />
 
+<img width="1582" height="765" alt="Image" src="https://github.com/user-attachments/assets/e249d987-c5df-4748-9f0b-4592639ebab1" />
+<img width="1587" height="718" alt="Image" src="https://github.com/user-attachments/assets/11b88112-cd91-4d27-9f8f-e8a287a46d40" />
+<img width="1577" height="722" alt="Image" src="https://github.com/user-attachments/assets/b9cd5fd6-720d-4928-a99b-175eefb27633" />
 
